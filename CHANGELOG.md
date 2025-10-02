@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/algorandfoundation/ledger-algorand-js/compare/v1.4.2...v1.4.3) (2025-10-02)
+
+
+### Bug Fixes
+
+* update licence ([09ed77f](https://github.com/algorandfoundation/ledger-algorand-js/commit/09ed77f2a5152590ca8817a29f478f5686f0eb33))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
